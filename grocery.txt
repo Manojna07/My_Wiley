@@ -4,3 +4,7 @@ Bread
 Candy
 Milk
 Kinder Joy
+Chips
+Ice cream
+Chocolates
+Pizzas
